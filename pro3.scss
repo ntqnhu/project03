@@ -160,7 +160,6 @@
         transform: translateY(-40px);
     }
 }
-
 .item1{
     width: 800px;
     margin: 0 auto;
@@ -189,7 +188,7 @@
             letter-spacing: 1px;
             border: solid 1px #f7f7f7;
             box-shadow: 2px 2px #f7f7f7;
-            background: rgba(#6666, 0.1);
+            background: rgba(#666, 0.1);
         }
     }
 }
@@ -286,7 +285,7 @@
 .item4:after{
     content: '';
     position: absolute;
-    background: rgba(#6666, 0.8);
+    background: rgba(#666, 0.8);
 }
 .item5{
     margin-top: 100px;
