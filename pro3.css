@@ -71,8 +71,6 @@
   display: none;
   -webkit-transform-origin: 50% 0%;
           transform-origin: 50% 0%;
-  -webkit-transform: translateX(30px);
-          transform: translateX(30px);
 }
 
 .header .container .center .navbar ul li .dropdown ul {
